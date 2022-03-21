@@ -8,6 +8,25 @@ Pre requisito:
 - Instalar docker-compose
 
 ### Comprobar Docker
+Tarea 1:
+¿Que es docker?
+https://docs.docker.com/get-started/
+
+
+Instalar Docker engine:
+- Instalar docker en windows:
+  https://docs.docker.com/desktop/windows/install/
+
+- Instalar docker en ubuntu:
+  https://docs.docker.com/engine/install/ubuntu/
+
+Instalar docker en mac:
+https://docs.docker.com/desktop/mac/install/
+
+Buscar imagen base:
+https://hub.docker.com/search?type=image
+
+Construir un dockerfile:
 
 docker-compose
 https://docs.docker.com/compose/install/
